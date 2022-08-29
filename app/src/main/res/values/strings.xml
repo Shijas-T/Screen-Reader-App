@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Reader App</string>
+    <string name="accessibility_service_label">MyService</string>
+</resources>
